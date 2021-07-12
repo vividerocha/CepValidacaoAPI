@@ -1,0 +1,12 @@
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\CepValidacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\CepValidacao.Domain.AssemblyInfoInputs.cache
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\CepValidacao.Domain.AssemblyInfo.cs
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\CepValidacao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\bin\Debug\net5.0\CepValidacao.Domain.deps.json
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\bin\Debug\net5.0\CepValidacao.Domain.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\bin\Debug\net5.0\ref\CepValidacao.Domain.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\bin\Debug\net5.0\CepValidacao.Domain.pdb
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\CepValidacao.Domain.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\ref\CepValidacao.Domain.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\CepValidacao.Domain.pdb
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.Domain\obj\Debug\net5.0\CepValidacao.Domain.csprojAssemblyReference.cache

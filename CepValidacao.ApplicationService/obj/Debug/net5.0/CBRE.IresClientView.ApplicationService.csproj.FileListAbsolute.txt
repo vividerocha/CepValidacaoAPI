@@ -1,0 +1,17 @@
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\CBRE.IresClientView.ApplicationService.deps.json
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\CBRE.IresClientView.ApplicationService.dll
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\ref\CBRE.IresClientView.ApplicationService.dll
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\CBRE.IresClientView.ApplicationService.pdb
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\CBRE.IresClientView.Domain.dll
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\CBRE.IresClientView.Infrastructure.dll
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\CBRE.IresClientView.Domain.pdb
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\bin\Debug\net5.0\CBRE.IresClientView.Infrastructure.pdb
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.AssemblyInfo.cs
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.csproj.CopyComplete
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.dll
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\ref\CBRE.IresClientView.ApplicationService.dll
+C:\Users\Viviane\source\repos\CBRE\src\services\ServiceCore\CBRE.IresClientView.ApplicationService\obj\Debug\net5.0\CBRE.IresClientView.ApplicationService.pdb

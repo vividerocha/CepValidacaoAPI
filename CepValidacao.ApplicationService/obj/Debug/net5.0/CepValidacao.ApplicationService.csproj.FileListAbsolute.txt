@@ -1,0 +1,15 @@
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.csprojAssemblyReference.cache
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.AssemblyInfo.cs
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\bin\Debug\net5.0\CepValidacao.ApplicationService.deps.json
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\bin\Debug\net5.0\CepValidacao.ApplicationService.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\bin\Debug\net5.0\ref\CepValidacao.ApplicationService.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\bin\Debug\net5.0\CepValidacao.ApplicationService.pdb
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\bin\Debug\net5.0\CepValidacao.Domain.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\bin\Debug\net5.0\CepValidacao.Domain.pdb
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.csproj.CopyComplete
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\ref\CepValidacao.ApplicationService.dll
+C:\Users\Viviane\source\repos\CepValidacao\CepValidacao.ApplicationService\obj\Debug\net5.0\CepValidacao.ApplicationService.pdb
